@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
+body{
+background-color:#e3e3e3;
+color:#f66;
+text-align:center;
+font-family: 'Raleway', sans-serif;
+font-size:17px;
+}
+a{
+color:#f66;
+text-decoration:none;
+}
+#name,#link{
+border-width:1px;
+background-color:#f7f7f7;
+width:200px;
+height:30px;
+font-family: 'Raleway', sans-serif;
+}
+#submit{
+background-color:#e3e3e3;
+border-width:2px;
+font-family: 'Raleway', sans-serif;
+}
