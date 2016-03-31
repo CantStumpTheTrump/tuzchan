@@ -1,2 +1,30 @@
 # tuzchan
-Lightweight textboard software. 
+ABSTRACT
+B
+S
+T
+R
+A
+C
+T
+  SHITPOSTING
+  H
+  I
+  T
+  P
+  O
+  S
+  T
+  I
+  N
+  G
+  
+  A
+  P
+  P
+  A
+  R
+  A
+  T
+  U
+  S
